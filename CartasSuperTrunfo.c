@@ -16,7 +16,7 @@ nivel novato apenas duas cartas.sem utilizacao de struct
     int populacao_1, populacao_2;
     float area_1, area_2;
     float pib_1, pib_2;
-    int pontosTuristicos_1, pontosturisticos_2;
+    int pontosTuristicos_1, pontosTuristicos_2;
 
   // Área para entrada de dados
   
